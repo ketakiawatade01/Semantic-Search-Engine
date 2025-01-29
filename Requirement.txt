@@ -1,0 +1,10 @@
+Package      Version
+------------ -----------
+faiss-cpu    1.8.0.post1
+numpy        1.26.4
+pip          24.2
+PyMuPDF      1.24.9
+PyMuPDFb     1.24.9
+streamlit    1.37.1
+torch        2.4.0
+transformers 4.44.2
